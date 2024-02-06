@@ -1,3 +1,3 @@
 import streamlit as st
-import pandas
+import pandas as pd
 st.title('Snowtasks Manager')
